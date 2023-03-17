@@ -1,0 +1,15 @@
+/Users/iic/Programming/C#/EightBallProject/bin/Debug/net7.0/EightBallProject
+/Users/iic/Programming/C#/EightBallProject/bin/Debug/net7.0/EightBallProject.deps.json
+/Users/iic/Programming/C#/EightBallProject/bin/Debug/net7.0/EightBallProject.runtimeconfig.json
+/Users/iic/Programming/C#/EightBallProject/bin/Debug/net7.0/EightBallProject.dll
+/Users/iic/Programming/C#/EightBallProject/bin/Debug/net7.0/EightBallProject.pdb
+/Users/iic/Programming/C#/EightBallProject/obj/Debug/net7.0/EightBallProject.csproj.AssemblyReference.cache
+/Users/iic/Programming/C#/EightBallProject/obj/Debug/net7.0/EightBallProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iic/Programming/C#/EightBallProject/obj/Debug/net7.0/EightBallProject.AssemblyInfoInputs.cache
+/Users/iic/Programming/C#/EightBallProject/obj/Debug/net7.0/EightBallProject.AssemblyInfo.cs
+/Users/iic/Programming/C#/EightBallProject/obj/Debug/net7.0/EightBallProject.csproj.CoreCompileInputs.cache
+/Users/iic/Programming/C#/EightBallProject/obj/Debug/net7.0/EightBallProject.dll
+/Users/iic/Programming/C#/EightBallProject/obj/Debug/net7.0/refint/EightBallProject.dll
+/Users/iic/Programming/C#/EightBallProject/obj/Debug/net7.0/EightBallProject.pdb
+/Users/iic/Programming/C#/EightBallProject/obj/Debug/net7.0/EightBallProject.genruntimeconfig.cache
+/Users/iic/Programming/C#/EightBallProject/obj/Debug/net7.0/ref/EightBallProject.dll
